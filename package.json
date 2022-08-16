@@ -1,0 +1,31 @@
+{
+	"name": "aagii-lib",
+	"version": "1.0.0",
+	"description": "Elloo",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Aagii018/aagii-lib.git"
+	},
+	"keywords": [
+		"aagii",
+		"library"
+	],
+	"author": "Aagii",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Aagii018/aagii-lib/issues"
+	},
+	"homepage": "https://github.com/Aagii018/aagii-lib#readme",
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	},
+	"files": [
+		"dist/**/*"
+	]
+}
